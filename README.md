@@ -12,3 +12,10 @@ puis tapez
 npm i -g nodemon
 npm run dev
 ```
+ ## Intsaller dotenv
+ pour utiliser les var d'environement (".env")
+ et rajouter require du dotenv (voir tuto)
+ ```
+npm i doten
+```
+ 
